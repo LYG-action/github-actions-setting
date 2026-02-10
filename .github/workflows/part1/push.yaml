@@ -1,4 +1,4 @@
-name: push-workflow 1
+name: push-workflow 6
 on: push
 
 jobs:
@@ -12,5 +12,6 @@ jobs:
           echo hello world
 
           echo github action
+
 
 
